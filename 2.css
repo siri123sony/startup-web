@@ -1,0 +1,21 @@
+h2{
+	font-family: fantasy;
+	color: pink;
+	font-size: 3em;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	width: 200px;
+	text-align: center;
+	-moz-box-shadow:;
+	box-shadow: 4px 4px 5px green;
+}
+.btn-danger{
+	background-color: orange;
+}
+.btn-danger:hover {
+	background-color: black;
+}
+.col {
+	background-color: green;
+	border:2px dashed blue;
+}
